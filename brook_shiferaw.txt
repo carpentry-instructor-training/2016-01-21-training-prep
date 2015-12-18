@@ -1,0 +1,1 @@
+My name is Brook Shiferaw. I am a PhD student in Cognitive Neuroscience investigating the influences alcohol and sleep deprivation on visuospatial attention and associated ocular activity. I use python to design psychophysics experiments and analyse data. 
