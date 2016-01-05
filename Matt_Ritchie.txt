@@ -1,0 +1,2 @@
+I'm a bioinformatics researcher based at the Walter and Eliza Hall Institute of Medical Research in Melbourne.
+My research focuses on the development of statistical models and open-source R/Bioconductor software for analysing genomic data.
