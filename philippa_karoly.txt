@@ -1,0 +1,2 @@
+Computational neuroscience for epilepsy. 
+I use mathematical models to understand seizure dynamics and for use in seizure prediction algorithms.
