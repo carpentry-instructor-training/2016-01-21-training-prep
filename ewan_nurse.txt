@@ -1,0 +1,1 @@
+My name is Ewan and I'm a PhD student in electrical engineering & medicine at the University of Melbourne. I mainly do signal processing and statistics on brain-wave data. I do experiments where I measure brain-waves while people move their arms, then I make models that predict arm movement just from brain waves.
