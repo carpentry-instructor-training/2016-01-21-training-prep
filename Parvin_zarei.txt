@@ -1,0 +1,2 @@
+My name is Parvin Zarei. I am a PhD student at the Electrical Engineering department of the Melbourne University. 
+I am working on a neural network model of visual cortex for motion perception. 
